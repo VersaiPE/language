@@ -1,0 +1,9 @@
+{
+  "name": "English",
+  "prefix": "§bNetureMC §9» ",
+  "localCode": "en_US",
+  
+  "values": {
+     "entity.dailyReward": "§bDaily Reward"
+  }
+}
