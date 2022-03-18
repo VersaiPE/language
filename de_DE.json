@@ -6,7 +6,7 @@
   "values": {
     "entity.dailyReward": "§bTägliche Belohnung",
     
-    "message.fly.enabled": "{PREFIX} §aYou successfully enabled fly.",
-    "message.fly.disable": "{PREFIX} §cYou successfully disabled fly."
+    "message.fly.enabled": "{PREFIX} §aDu kannst nun fliegen.",
+    "message.fly.disable": "{PREFIX} §cDu kannst nun nicht mehr fliegen."
   }
 }
