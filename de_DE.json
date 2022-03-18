@@ -1,9 +1,12 @@
 {
   "name": "Deutsch",
-  "prefix": "§bNetureMC §9» ",
+  "PREFIX": "§bNetureMC §9» ",
   "localCode": "de_DE",
   
   "values": {
-     "entity.dailyReward": "§bTägliche Belohnung"
+    "entity.dailyReward": "§bTägliche Belohnung",
+    
+    "message.fly.enabled": "{PREFIX} §aYou successfully enabled fly.",
+    "message.fly.disable": "{PREFIX} §cYou successfully disabled fly."
   }
 }
