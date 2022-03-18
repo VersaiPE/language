@@ -1,0 +1,9 @@
+{
+  "name": "Germany",
+  "prefix": "§bNeturaMC §9» ",
+  "localCode": "de_DE",
+  
+  "values": {
+     "entity.dailyReward": "§bTägliche Belohnung"
+  }
+}
