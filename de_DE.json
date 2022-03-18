@@ -7,6 +7,8 @@
     "entity.dailyReward": "§bTägliche Belohnung",
     
     "message.fly.enabled": "{PREFIX} §aDu kannst nun fliegen.",
-    "message.fly.disable": "{PREFIX} §cDu kannst nun nicht mehr fliegen."
+    "message.fly.disable": "{PREFIX} §cDu kannst nun nicht mehr fliegen.",
+    "message.alreadyConnectedServer": "{PREFIX} §cDu bist bereits auf diesem Server verbunden.",
+    "message.serverIsOffline": "{PREFIX} §cDieser server ist derzeit §4Offline."
   }
 }
