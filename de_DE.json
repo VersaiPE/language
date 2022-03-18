@@ -7,6 +7,7 @@
     "entity.dailyReward": "§bTägliche Belohnung",
     
     "message.playerNotFound": "{PREFIX} §cDieser Spieler wurde nicht gefunden",
+    "message.providePlayer": "{PREFIX}",
     "message.fly.enabled": "{PREFIX} §aDu kannst nun fliegen.",
     "message.fly.disable": "{PREFIX} §cDu kannst nun nicht mehr fliegen.",
     "message.alreadyConnectedServer": "{PREFIX} §cDu bist bereits auf diesem Server verbunden.",
@@ -16,6 +17,8 @@
     "message.mapWillChangeIn5Minutes": "{PREFIX}",
     "message.mapWillChangeIn10Seconds": "{PREFIX}",
     "message.mapWillChangeIn5Seconds": "{PREFIX}",
+    "message.mustBeNumeric": "{PREFIX} §cBitte benutzte nur Zahlen!",
+    "message.transferGunGame": "{PREFIX} §aDu wirst zu den Server §6GunGame §averbunden...",
     
     "broadcast.joinOurDiscord": "{PREFIX} §9Betrete unseren Discord noch Heute unter §6NetureMC.net/discord§9!",
     "broadcast.voteDaily": "{PREFIX}",
