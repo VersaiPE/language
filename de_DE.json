@@ -34,6 +34,11 @@
     
     "scoreboard.yourRank": "Dein Rang:",
     "scoreboard.yourCoins": "Deine Coins:",
-    "scoreboard.players": "Spieler Online:"
+    "scoreboard.players": "Spieler Online:",
+    
+    "item.reportPlayer": "§cSpieler Melden",
+    "item.cosmeticItem": "§aKosmetik",
+    "item.cosmeticShop": "§9Kosmetik Shop",
+    "item.profileItem": "§eProfil"
   }
 }
