@@ -23,7 +23,7 @@
     "message.serverIsOffline": "{PREFIX} §cDieser Server ist §4Offline.",
     "message.serverIsFull": "{PREFIX} §cDieser Server zu dem du dich verbinden willst ist §4voll§c.",
     "message.serverInMaintenance": "{PREFIX} §cDieser Server ist in §4Wartungsarbeiten§c.",
-    "message.serverInMaintenance": "{PREFIX} §cDieser Server wurde nicht gefunden.",
+    "message.serverNotFound": "{PREFIX} §cDieser Server wurde nicht gefunden.",
     "message.rules": "§aNetureMC Regeln: \n\n§f1. §cBeleidigungen sind untersagt\n§f2. §cSpammen ist untersagt.\n§f3. §cNicht andere Leute unnötig pingen.\n§cMehr Regeln kommen bald....",
     
     "broadcast.joinOurDiscord": "{PREFIX} §9Betrete unseren Discord noch Heute unter §6NetureMC.net/discord§9!",
