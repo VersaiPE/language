@@ -1,13 +1,13 @@
 {
   "name": "English",
   "PREFIX": "§bNetureMC §9» ",
-  "localCode": "en_US",
+  "locale": "en_EN",
   
   "values": {
-    "entity.dailyReward": "§bDaily Reward",
+    "entity.dailyReward": "§bTägliche Belohnung",
     
-    "message.noPerms": "{PREFIX} §cYou dont have permission to use this command!",
-    "message.playerNotFound": "{PREFIX} §cThis player was not found",
+    "message.noPerms": "{PREFIX} §cDu hast keine Berechtigung, um diesen Befehl zu nutzen!",
+    "message.playerNotFound": "{PREFIX} §cDieser Spieler wurde nicht gefunden",
     "message.providePlayer": "{PREFIX} §cBitte gebe einen Spielernamen ein",
     "message.mustBeNumeric": "{PREFIX} §cBitte benutzte nur Zahlen!",
     "message.fly.enabled": "{PREFIX} §aDu kannst nun fliegen.",
@@ -19,10 +19,11 @@
     "message.mapWillChangeIn5Seconds": "{PREFIX} §aDie Karte wird in §65 §aSekunden gewechselt.",
     "message.transferGunGame": "{PREFIX} §aDu wirst zu dem Server §6GunGame §averbunden...",
     "message.transferGunGame": "{PREFIX} §aDu wirst zu dem Server §6Lobby §averbunden...",
-    "message.alreadyConnectedServer": "{PREFIX} §cYou are already connected to this server.",
-    "message.serverIsOffline": "{PREFIX} §cThis server is §4Offline.",
+    "message.alreadyConnectedServer": "{PREFIX} §cDu bist bereits auf diesem Server verbunden.",
+    "message.serverIsOffline": "{PREFIX} §cDieser Server ist §4Offline.",
     "message.serverIsFull": "{PREFIX} §cDieser Server zu dem du dich verbinden willst ist §4voll§c.",
-    "message.serverInMaintenance": "{PREFIX} §cThis server is currently in §4Maintenance§c.",
+    "message.serverInMaintenance": "{PREFIX} §cDieser Server ist in §4Wartungsarbeiten§c.",
+    "message.serverNotFound": "{PREFIX} §cDieser Server wurde nicht gefunden.",
     "message.rules": "§aNetureMC Regeln: \n\n§f1. §cBeleidigungen sind untersagt\n§f2. §cSpammen ist untersagt.\n§f3. §cNicht andere Leute unnötig pingen.\n§cMehr Regeln kommen bald....",
     
     "broadcast.joinOurDiscord": "{PREFIX} §9Betrete unseren Discord noch Heute unter §6NetureMC.net/discord§9!",
@@ -32,12 +33,12 @@
     "broadcast.staffQuestions": "{PREFIX} §9Fragen? Anliegen? Hilfe? Du kannst gerne ein Ticket auf unserem Discord Öffnen. §6NetureMC.net/discord",
     "broadcast.reportHacker": "{PREFIX} §9Du hast einen Hacker gefunden? Reporte ihn mit dem Command §6/report <spieler>§9 oder §6/hacker§9!",
     
-    "scoreboard.yourRank": "Your Group:",
-    "scoreboard.yourCoins": "Your Coins:",
-    "scoreboard.players": "Players Online:",
+    "scoreboard.yourRank": "Dein Rang:",
+    "scoreboard.yourCoins": "Deine Coins:",
+    "scoreboard.players": "Spieler Online:",
     
-    "item.cosmeticItem": "§aCosmetic",
-    "item.cosmeticShop": "§9Cosmetic Shop",
-    "item.profileItem": "§eProfile"
+    "item.cosmeticItem": "§aKosmetik",
+    "item.cosmeticShop": "§9Kosmetik Shop",
+    "item.profileItem": "§eProfil"
   }
 }
