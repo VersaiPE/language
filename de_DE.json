@@ -1,7 +1,7 @@
 {
   "name": "Deutsch",
   "PREFIX": "§bNetureMC §9» ",
-  "localCode": "de_DE",
+  "locale": "de_DE",
   
   "values": {
     "entity.dailyReward": "§bTägliche Belohnung",
