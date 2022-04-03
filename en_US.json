@@ -2,6 +2,7 @@
   "name": "English",
   "prefix": "§bNetureMC §9» ",
   "locale": "en_EN",
+  "contributors": ["NetureCrafter"],
   
   "values": {
     "entity.dailyReward": "§bTägliche Belohnung",
