@@ -38,8 +38,9 @@
     "scoreboard.yourCoins": "Deine Coins:",
     "scoreboard.players": "Spieler Online:",
     
-    "item.cosmeticItem": "§aKosmetik",
-    "item.cosmeticShop": "§9Kosmetik Shop",
-    "item.profileItem": "§eProfil"
+    "item.playerHider": "§8[§bKlicke§8]\n§eSpieler Sichtbarkeit",
+    "item.minigameTeleporter": "§8[§bKlicke§8]\n§aTeleporter",
+    "item.lobbySwitcher": "§8[§bKlicke§8]\n§6Lobby Wechsler",
+    "item.profile": "§8[§bKlicke§8]\n§eProfil"
   }
 }
