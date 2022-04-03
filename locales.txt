@@ -1,1 +1,6 @@
-
+{
+  "languages": [
+    "de_DE.json",
+    "en_US.json"
+  ]
+}
