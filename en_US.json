@@ -1,46 +1,11 @@
 {
   "name": "English",
-  "prefix": "§bNetureMC §9» ",
+  "prefix": "§bVersai §8»§7 ",
   "locale": "en_US",
-  "contributors": ["NetureCrafter"],
+  "shortcut": "en",
+  "contributors": ["Jibix"],
   
   "values": {
-    "entity.dailyReward": "§bDaily Rewards",
-    
-    "message.noPerms": "{PREFIX} §cYou dont have permission to use this command!",
-    "message.playerNotFound": "{PREFIX} §cThis player was not found",
-    "message.providePlayer": "{PREFIX} §cPlease enter a playername",
-    "message.mustBeNumeric": "{PREFIX} §cPlease use only numbers!",
-    "message.fly.enabled": "{PREFIX} §aYou can now fly.",
-    "message.fly.disable": "{PREFIX} §cYou can no longer fly.",
-    "message.mapWillChangeIn15Minutes": "{PREFIX} §aThe map will change in §615 §aminutes.",
-    "message.mapWillChangeIn10Minutes": "{PREFIX} §aThe map will change in §610 §aminutes.",
-    "message.mapWillChangeIn5Minutes": "{PREFIX} §aThe map will change in §65 §aminutes.",
-    "message.mapWillChangeIn10Seconds": "{PREFIX} §aThe map will change in §610 §aseconds.",
-    "message.mapWillChangeIn5Seconds": "{PREFIX} §aThe map will change in §65 §aseconds.",
-    "message.transferGunGame": "{PREFIX} §aYou are getting transfered to the server §6GunGame§a...",
-    "message.transferGunGame": "{PREFIX} §aYou are getting transfered to the server §6Lobby§a...",
-    "message.alreadyConnectedServer": "{PREFIX} §cYou already connected to this server.",
-    "message.serverIsOffline": "{PREFIX} §cThis server is offline §4Offline.",
-    "message.serverIsFull": "{PREFIX} §cThis server you want to transfer is §4full§c.",
-    "message.serverInMaintenance": "{PREFIX} §cThis server is in §4Maintenance§c.",
-    "message.serverNotFound": "{PREFIX} §cThis server was not found",
-    "message.rules": "§aNetureMC Regeln: \n\n§f1. §cBeleidigungen sind untersagt\n§f2. §cSpammen ist untersagt.\n§f3. §cNicht andere Leute unnötig pingen.\n§cMehr Regeln kommen bald....",
-    
-    "broadcast.joinOurDiscord": "{PREFIX} §9Join our discord server today under §6NetureMC.net/discord§9!",
-    "broadcast.voteDaily": "{PREFIX} §9Vote every day under §6NetureMC.net/vote§9, to get cool rewards!",
-    "broadcast.joinOurDiscordEvents": "{PREFIX} §9On our Discord Server you will find cool giveaways & announcements. §6NetureMC.net/discord",
-    "broadcast.voteRemember": "{PREFIX} §9Dont forget to vote under §6NetureMC.net/vote §9!",
-    "broadcast.staffQuestions": "{PREFIX} §9Questions? Issues? Help? You are welcome to open a ticket on our Discord. §6NetureMC.net/discord",
-    "broadcast.reportHacker": "{PREFIX} §9Found a hacker? Report them with the command §6/report <player>§9 or §6/hacker§9!",
-    
-    "scoreboard.yourRank": "Your Group:",
-    "scoreboard.yourCoins": "Your Coins:",
-    "scoreboard.players": "Players Online:",
-    
-    "item.playerHider": "§8[§bClick§8]\n§ePlayer Hider",
-    "item.minigameTeleporter": "§8[§bClick§8]\n§aTeleporter",
-    "item.lobbySwitcher": "§8[§bClick§8]\n§6Lobby Switcher",
-    "item.profile": "§8[§bClick§8]\n§eProfile"
+    "message.example": "{PREFIX} This is an example!"
   }
 }
