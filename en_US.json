@@ -9,6 +9,10 @@
     "message.useIngame": "{PREFIX} §cPlease use this command ingame!",
     "message.noPermission": "{PREFIX} §cYou don't have the permission to use this command!",
     "message.playerNotFound": "{PREFIX} §cThis player could not be found!",
-    "message.playerNotOnline": "{PREFIX} §cThis player is not online!"
+    "message.playerNotOnline": "{PREFIX} §cThis player is not online!",
+
+    "message.settingsSaved": "{PREFIX} §aYour settings have been saved successfully!",
+
+    "ui.title.settings": "§bSettings"
   }
 }
