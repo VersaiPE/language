@@ -12,6 +12,7 @@
     "message.playerNotOnline": "{PREFIX} §cDieser Spieler ist nicht online!",
 
     "message.settingsSaved": "{PREFIX} §aDeine Einstellungen wurden gespeichert!",
+    "message.staffChat": "§8[§6TeamChat§8]§b {0}§8 >§r {1}",
 
     "ui.title.settings": "§bEinstellungen",
     "ui.element.msgs": "Prvianachrichten",
