@@ -6,6 +6,6 @@
   "contributors": ["Jibix"],
   
   "values": {
-    "message.example": "{PREFIX} This is an example!"
+    "message.example": "{PREFIX} This is an example message!"
   }
 }
