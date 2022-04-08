@@ -6,6 +6,6 @@
   "contributors": ["Jibix"],
   
   "values": {
-    "message.example": "{PREFIX} This is an example message!"
+    "message.noPermission": "{PREFIX} §cYou don't have the permission to use this command!"
   }
 }
