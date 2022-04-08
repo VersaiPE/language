@@ -13,6 +13,10 @@
 
     "message.settingsSaved": "{PREFIX} §aYour settings have been saved successfully!",
 
-    "ui.title.settings": "§bSettings"
+    "ui.title.settings": "§bSettings",
+    "ui.element.msgs": "Private messages",
+    "ui.element.chat": "Chat",
+    "ui.element.scoreboard": "Scoreboard",
+    "ui.element.laguage": "Language"
   }
 }

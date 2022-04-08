@@ -13,6 +13,10 @@
 
     "message.settingsSaved": "{PREFIX} §aDeine Einstellungen wurden gespeichert!",
 
-    "ui.title.settings": "§bEinstellungen"
+    "ui.title.settings": "§bEinstellungen",
+    "ui.element.msgs": "Prvianachrichten",
+    "ui.element.chat": "Chat",
+    "ui.element.scoreboard": "Scoreboard",
+    "ui.element.laguage": "Sprache"
   }
 }
