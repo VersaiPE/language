@@ -6,6 +6,9 @@
   "contributors": ["Jibix"],
   
   "values": {
-    "message.noPermission": "{PREFIX} §cDu hast keine Berechtigung diesen Command zu benutzen!"
+    "message.useIngame": "{PREFIX} §cBitte benutze diesen Command ingame!",
+    "message.noPermission": "{PREFIX} §cDu hast keine Berechtigung diesen Command zu benutzen!",
+    "message.playerNotFound": "{PREFIX} §cDieser Spieler wurde nicht gefunden!",
+    "message.playerNotOnline": "{PREFIX} §cDieser Spieler ist nicht online!"
   }
 }
