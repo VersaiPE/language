@@ -10,7 +10,10 @@
     "message.noPermission": "{PREFIX} §cDu hast keine Berechtigung diesen Command zu benutzen!",
     "message.playerNotFound": "{PREFIX} §cDieser Spieler wurde nicht gefunden!",
     "message.playerNotOnline": "{PREFIX} §cDieser Spieler ist nicht online!",
+    "message.invalidGamemode": "{PREFIX} §cDu kannst dieses Feature in deinem aktuellen Spielmodus nicht benutzen!",
 
+    "message.flyToggled": "{PREFIX} §aDu hast fliegen erfolgreich umgeschaltet!",
+    "message.flyToggled.other": "{PREFIX} §aDu hast fliegen erfolgreich umgeschaltet!",
     "message.settingsSaved": "{PREFIX} §aDeine Einstellungen wurden gespeichert!",
     "message.staffChat": "§8[§6TeamChat§8]§b {0}§8 >§r {1}",
 
