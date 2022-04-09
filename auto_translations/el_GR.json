@@ -2,7 +2,7 @@
   "values": {
     "message.useIngame": "Please use this command ingame!",
     "message.noPermission": "You don't have the permission to use this command!",
-    "message.playerNotFound": "This player could not be found!",
+    "message.playerNotFound": "Αυτός ο παίκτης δεν μπόρεσε να βρεθεί!",
     "message.playerNotOnline": "This player is not online!",
     "message.invalidGamemode": "You can't use this feature in your current gamemode!",
     "message.flyToggled": "You have successfully toggled your flight mode!",
