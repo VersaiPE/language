@@ -1,21 +1,21 @@
 {
   "values": {
-    "message.useIngame": "Please use this command ingame!",
-    "message.noPermission": "You don't have the permission to use this command!",
-    "message.playerNotFound": "This player could not be found!",
-    "message.playerNotOnline": "This player is not online!",
-    "message.invalidGamemode": "You can't use this feature in your current gamemode!",
-    "message.flyToggled": "You have successfully toggled your flight mode!",
-    "message.flyToggled.other": "You have successfully toggled the flight mode of {0}!",
-    "message.ping": "Your ping is {0}!",
-    "message.ping.other": "{0}'s ping is {1}!",
-    "message.settingsSaved": "Your settings have been saved successfully!",
-    "ui.title.settings": "Settings",
-    "ui.element.msgs": "Private messages",
+    "message.useIngame": "Bitte benutze diesen Command in-game!",
+    "message.noPermission": "Du hast keine Berechtigung diesen Command zu benutzen!",
+    "message.playerNotFound": "Dieser Spieler wurde nicht gefunden!",
+    "message.playerNotOnline": "Dieser Spieler ist nicht online!",
+    "message.invalidGamemode": "Du kannst dieses Feature in deinem aktuellen Spielmodus nicht benutzen!",
+    "message.flyToggled": "Du hast fliegen erfolgreich umgeschaltet!",
+    "message.flyToggled.other": "Sie haben das Fliegen von {0} erfolgreich umgeschaltet!",
+    "message.ping": "Dein Ping ist {0}!",
+    "message.ping.other": "{0}'s Ping ist {1}!",
+    "message.settingsSaved": "Deine Einstellungen wurden erfolgreich gespeichert!",
+    "ui.title.settings": "Einstellungen",
+    "ui.element.msgs": "Prvianachrichten",
     "ui.element.chat": "Chat",
     "ui.element.scoreboard": "Scoreboard",
-    "ui.element.language": "Language",
-    "ui.element.autotranlation": "Auto translation",
-    "ui.button.close": "Close"
+    "ui.element.language": "Sprache",
+    "ui.element.autotranlation": "Automatische Übersetzung",
+    "ui.button.close": "Schließen"
   }
 }
