@@ -18,6 +18,7 @@
     "ui.element.msgs": "Prvianachrichten",
     "ui.element.chat": "Chat",
     "ui.element.scoreboard": "Scoreboard",
-    "ui.element.language": "Sprache"
+    "ui.element.language": "Sprache",
+    "ui.element.autotranlation": "Automatische Übersetzung",
   }
 }
