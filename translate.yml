@@ -1,3 +1,5 @@
 files:
-  - source: /*.json
+  - source: /en_US.json
+    ignore:
+      - '*.*'
     translation: /auto_translations/%locale_with_underscore%.json
