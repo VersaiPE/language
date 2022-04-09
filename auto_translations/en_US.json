@@ -1,6 +1,6 @@
 {
   "values": {
-    "message.useIngame": "Please use this command ingame!",
+    "message.useIngame": "Please use this command in-game!",
     "message.noPermission": "You don't have the permission to use this command!",
     "message.playerNotFound": "This player could not be found!",
     "message.playerNotOnline": "This player is not online!",
