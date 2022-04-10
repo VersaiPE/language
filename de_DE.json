@@ -20,6 +20,7 @@
     "message.staffChat": "§8[§6TeamChat§8]§b {0}§8 >§r {1}",
 
     "command.description.translate": "Übersetze eine Nachricht in eine bestimmte Sprache",
+    "command.description.fly": "Schalte Fliegen um",
 
     "ui.title.settings": "§bEinstellungen",
     "ui.element.msgs": "Prvianachrichten",

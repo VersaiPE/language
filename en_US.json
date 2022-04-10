@@ -20,6 +20,7 @@
     "message.staffChat": "§8[§6TeamChat§8]§b {0}§8 >§r {1}",
 
     "command.description.translate": "Translate a message to a specific language",
+    "command.description.fly": "Toggle fly",
 
     "ui.title.settings": "§bSettings",
     "ui.element.msgs": "Private messages",
