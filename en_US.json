@@ -19,6 +19,8 @@
     "message.settingsSaved": "{PREFIX} §aYour settings have been saved successfully!",
     "message.staffChat": "§8[§6TeamChat§8]§b {0}§8 >§r {1}",
 
+    "command.description.translate": "Translate a message to a specific language",
+
     "ui.title.settings": "§bSettings",
     "ui.element.msgs": "Private messages",
     "ui.element.chat": "Chat",
