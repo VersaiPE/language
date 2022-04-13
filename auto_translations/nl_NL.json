@@ -1,21 +1,21 @@
 {
   "values": {
-    "message.useIngame": "Please use this command ingame!",
-    "message.noPermission": "You don't have the permission to use this command!",
-    "message.playerNotFound": "This player could not be found!",
-    "message.playerNotOnline": "This player is not online!",
-    "message.invalidGamemode": "You can't use this feature in your current gamemode!",
-    "message.flyToggled": "You have successfully toggled your flight mode!",
-    "message.flyToggled.other": "You have successfully toggled the flight mode of {0}!",
-    "message.ping": "Your ping is {0}!",
+    "message.useIngame": "Gebruik deze opdracht in het spel!",
+    "message.noPermission": "U heeft geen toestemming om dit commando te gebruiken!",
+    "message.playerNotFound": "Deze persoon kon niet worden gevonden!",
+    "message.playerNotOnline": "Deze speler is niet online!",
+    "message.invalidGamemode": "Je kunt deze opdracht niet gebruiken in je huidige spelmodus!",
+    "message.flyToggled": "Je hebt de vliegmodus met succes gewijzigd!",
+    "message.flyToggled.other": "U hebt met succes de vluchtmodus gewijzigd van {0}!",
+    "message.ping": "Uw ping is {0}!",
     "message.ping.other": "{0}'s ping is {1}!",
-    "message.settingsSaved": "Your settings have been saved successfully!",
-    "ui.title.settings": "Settings",
-    "ui.element.msgs": "Private messages",
+    "message.settingsSaved": "Uw instellingen zijn succesvol opgeslagen!",
+    "ui.title.settings": "Instellingen",
+    "ui.element.msgs": "Privé Berichten",
     "ui.element.chat": "Chat",
-    "ui.element.scoreboard": "Scoreboard",
+    "ui.element.scoreboard": "Scorebord",
     "ui.element.language": "Language",
-    "ui.element.autotranlation": "Auto translation",
-    "ui.button.close": "Close"
+    "ui.element.autotranlation": "Automatische vertaling",
+    "ui.button.close": "Sluiten"
   }
 }
