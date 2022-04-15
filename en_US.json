@@ -46,7 +46,7 @@
     "message.flyToggled": "{PREFIX} §aYou have successfully {0} §ayour flight mode!",
     "message.flyToggled.other": "{PREFIX} §aYou have successfully {1} §athe flight mode of§b {0}§a!",
     "message.ping": "{PREFIX} §aYour ping is§b {0}§a!",
-    "message.ping.other": "{PREFIX} §b{0}'s§a is§b {1}§a!",
+    "message.ping.other": "{PREFIX} §b{0}'s§a Ping is§b {1}§a!",
     "message.settingsSaved": "{PREFIX} §aYour settings have been saved successfully!",
     "message.staffChat": "§8[§6TeamChat§8]§b {0}§8 >§r {1}",
     "message.setcoins.success": "{PREFIX} §aYou have successfully set§b {0}'s§a coins to§6 {1}§a!",
