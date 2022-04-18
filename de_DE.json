@@ -57,6 +57,7 @@
     "message.customSetupSaved": "{PREFIX} §aDeine custom§b {0}§a Cosmetics wurden erfolgreich gespeichert!",
     "message.customSetup": "{PREFIX} §aDu bist nun im setup Modus für die custom§b {0}§a Cosmetics!§7 Schleiche wenn du fertig bist.",
     "message.reachedCheckpoint": "{PREFIX} §aDu hast den Checkpoint§b #{0}§a erreicht!",
+    "message.jumpandrunStarted": "{PREFIX} §aDu hast das Jump and Run gestartet. Die aktuelle Top Zeit ist§b {0}§a, kannst du diesen Rekord knacken?",
 
     "command.description.build": "Schalte den build Modus um",
     "command.description.translate": "Übersetze eine Nachricht in eine bestimmte Sprache",
