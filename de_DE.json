@@ -56,6 +56,7 @@
     "message.checkcoins.success": "{PREFIX} §b{0}§a hat§6 {1}§a Coins!",
     "message.customSetupSaved": "{PREFIX} §aDeine custom§b {0}§a Cosmetics wurden erfolgreich gespeichert!",
     "message.customSetup": "{PREFIX} §aDu bist nun im setup Modus für die custom§b {0}§a Cosmetics!§7 Schleiche wenn du fertig bist.",
+    "message.reachedCheckpoint": "{PREFIX} §aDu hast den Checkpoint§b #{0}§a erreicht!",
 
     "command.description.build": "Schalte den build Modus um",
     "command.description.translate": "Übersetze eine Nachricht in eine bestimmte Sprache",
@@ -177,6 +178,7 @@
     "ui.button.iron": "Eisen",
     "ui.button.coal": "Kohle",
     "ui.button.wool": "§bWolle",
+    "ui.button.cancel": "§cAbbrechen",
     "ui.button.close": "§cSchließen",
     "ui.button.back": "§cZurück",
 

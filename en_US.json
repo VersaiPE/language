@@ -55,6 +55,7 @@
     "message.checkcoins.success": "{PREFIX} §b{0}§a has§6 {1}§a coins!",
     "message.customSetupSaved": "{PREFIX} §aYour custom§b {0}§a cosmetics have been saved successfully!",
     "message.customSetup": "{PREFIX} §aYou are now in setup mode for custom§b {0}§a cosmetics!§7 Sneak when you're done.",
+    "message.reachedCheckpoint": "{PREFIX} §aYou have reached the Checkpoint§b #{0}§a!",
 
     "command.description.jumpandrun": "Configure the JumpAndRun",
     "command.description.build": "Toggle the build mode",
@@ -177,6 +178,7 @@
     "ui.button.iron": "Iron",
     "ui.button.coal": "Coal",
     "ui.button.wool": "§bWool",
+    "ui.button.cancel": "§cCancel",
     "ui.button.close": "§cClose",
     "ui.button.back": "§cBack",
 
