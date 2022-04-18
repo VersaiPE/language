@@ -186,7 +186,7 @@
 
     "popup.welcomeOnVersai": "§aWillkommen auf §bVersai",
     "popup.sneakWhenDone": "§aSchleiche wenn du fertig bist.",
-    "popup.finishedJumpAndRun": "§l§b Jump and Run§a geschafft!\n§r§bZeit:§f {0}",
+    "popup.finishedJumpAndRun": "§l§b Jump and Run§a beendet!\n§r§bZeit:§f {0}",
     "popup.spawnTeleport": "§aDu wirst in§b {0}§a Sekunden zum spawn teleportiert"
   }
 }
