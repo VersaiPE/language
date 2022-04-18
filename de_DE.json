@@ -59,7 +59,6 @@
     "message.reachedCheckpoint": "{PREFIX}§aDu hast den Checkpoint§f #{0}§a erreicht!",
     "message.jumpandrunStarted": "{PREFIX}§aDu hast das Jump and Run gestartet. Die aktuelle Top Zeit ist§b {0}§a, kannst du diesen Rekord knacken?",
     "message.toppedTime": "{PREFIX}§aDu hast den§f {0}.§a Platz getoppt mit einer Zeit von§b {1}§a!",
-    "message.toppedLastHighscore": "{PREFIX}§aDu hast deinen letzten Rekord geknackt mit einer Zeit von§b {0}§a!",
 
     "command.description.build": "Schalte den build Modus um",
     "command.description.translate": "Übersetze eine Nachricht in eine bestimmte Sprache",
@@ -187,6 +186,7 @@
 
     "popup.welcomeOnVersai": "§aWillkommen auf §bVersai",
     "popup.sneakWhenDone": "§aSchleiche wenn du fertig bist.",
-    "popup.finishedJumpAndRun": "§l§b Jump and Run§a geschafft!\n§r§bZeit:§f {0}"
+    "popup.finishedJumpAndRun": "§l§b Jump and Run§a geschafft!\n§r§bZeit:§f {0}",
+    "popup.spawnTeleport": "§aDu wirst in§b {0}§a Sekunden zum spawn teleportiert"
   }
 }
