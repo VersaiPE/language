@@ -89,6 +89,7 @@
     "message.youDied": "§cYou died!",
     "message.notEnoughMoney": "§cYou don't have enough money to buy this item!",
     "message.boughtItem": "§aYou have successfully bought§b {0}§a for§6 {1}§a Coins!",
+    "message.playerBoughtItem": "§e{0}§a bought§b {1}§a for§6 {2}§a Coins!",
 
     "command.description.jumpandrun": "Configure the JumpAndRun",
     "command.description.build": "Toggle the build mode",
@@ -117,6 +118,7 @@
     "ui.title.teleporter": "§bTeleporter",
     "ui.title.vote": "§bVote",
     "ui.title.shop": "§bShop",
+    "ui.title.ranks": "§bRanks",
     "ui.description.informations": "Please choose which information you want to see.",
     "ui.description.rules": "§cThe rules are:\n\n§81.§c No hacking\n§82.§c No spamming\n§83.§c No insults\n§84.§c Fair playing\n§85.§c No advertising§7 (except Versai)\n§86.§c No recruitment of team members or players\n§87.§c No bug abuse§7 (report bugs)\n§cThe rules must be complied with without exception and violations will result in a ban/mute if the rules are repeatedly broken.",
     "ui.description.links": "§1Discord Server:\n  §8»§f https://versai.com/discord\n§aVote Link:\n  §8»§f https://versai.com/vote\n§cYouTube Channel:\n  §8»§f https://versai.com/youtube",
