@@ -94,6 +94,8 @@
     "message.playerBoughtItem": "§e{0}§a bought§b {1}§a for§6 {2}§a Coins!",
     "message.nickIsInUse": "§cThis nick is already in use!",
     "message.nickLength": "§cPlease use min 5 and max 16 chars for your Nickname name!",
+    "message.nickedSuccessfully": "§aYou have successfully changed your Nickname to§b {0}§a!",
+    "message.unnickedSuccessfully": "§aYou have been unnicked successfully!",
 
     "command.description.jumpandrun": "Configure the JumpAndRun",
     "command.description.build": "Toggle the build mode",

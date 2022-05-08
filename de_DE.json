@@ -96,6 +96,8 @@
     "message.playerBoughtItem": "§e{0}§a hat den Gegenstand§b {1}§a für§6 {2}§a Coins gekauft!",
     "message.nickIsInUse": "§cDieser Nickname ist bereits in Benutzung!",
     "message.nickLength": "§cBitte benutze mindestens 5 und maximal 16 Zeichen für deinen Nickname!",
+    "message.nickedSuccessfully": "§aDu hast erfolgreich zu§b {0}§a genickt!",
+    "message.unnickedSuccessfully": "§aDu hast deinen Nicknamen erfolgreich entfernt!",
 
     "command.description.build": "Schalte den build Modus um",
     "command.description.translate": "Übersetze eine Nachricht in eine bestimmte Sprache",
