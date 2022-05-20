@@ -168,6 +168,7 @@
     "ui.title.shop": "§bShop",
     "ui.title.ranks": "§bRanks",
     "ui.title.nick": "§bNick",
+    "ui.title.spectate": "§bSpectate",
     "ui.description.informations": "Please choose which information you want to see.",
     "ui.description.rules": "§cThe rules are:\n\n§81.§c No hacking\n§82.§c No spamming\n§83.§c No insults\n§84.§c Fair playing\n§85.§c No advertising§7 (except Versai)\n§86.§c No recruitment of team members or players\n§87.§c No bug abuse§7 (report bugs)\n§cThe rules must be complied with without exception and violations will result in a ban/mute if the rules are repeatedly broken.",
     "ui.description.links": "§1Discord Server:\n  §8»§f https://versai.com/discord\n§aVote Link:\n  §8»§f https://versai.com/vote\n§cYouTube Channel:\n  §8»§f https://versai.com/youtube",
