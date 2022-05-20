@@ -55,6 +55,8 @@
     "raw.enemy": "Gegner",
     "raw.points": "Punktestand",
     "raw.map": "Map",
+    "raw.ranked": "Ranked",
+    "raw.unranked": "Unranked",
     "raw.none": "§cKeine",
     "raw.enabled": "§aAktiviert",
     "raw.disabled": "§cDeaktiviert",
