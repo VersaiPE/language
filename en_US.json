@@ -50,6 +50,7 @@
     "raw.kdr": "K/D",
     "raw.winChance": "Win Chance",
     "raw.page": "Page",
+    "raw.streak": "Streak",
     "raw.none": "§cNone",
     "raw.enabled": "§aEnabled",
     "raw.disabled": "§cDisabled",
@@ -284,7 +285,7 @@
     "ui.button.close": "§cClose",
     "ui.button.back": "§cBack",
 
-    "popup.welcomeOnVersai": "§aWelcome on §bVersai",
+    "popup.welcomeOnVersai": "§aWelcome to §bVersai",
     "popup.sneakWhenDone": "§aSneak when you're done.",
     "popup.finishedJumpAndRun": "§l§b Jump and Run§a finished!\n§r§bTime:§f {0}",
     "popup.spawnTeleport": "§aYou will teleport to the spawn in§b {0}§a seconds!",
