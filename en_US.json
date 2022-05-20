@@ -293,6 +293,6 @@
     "popup.alreadyRequested": "§cYou have already requested§b {0}§c!",
     "popup.buildHeightReached": "§cYou have reached the max build height!",
     "popup.canNotBreakOwnBed": "§cYou can't break your own bed!",
-    "popup.spawnProtection": "§cSpawn protection!",
+    "popup.spawnProtection": "§cSpawn protection!"
   }
 }
