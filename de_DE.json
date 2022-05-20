@@ -57,6 +57,7 @@
     "raw.map": "Map",
     "raw.ranked": "Ranked",
     "raw.unranked": "Unranked",
+    "raw.gameRunningSince": "Spiel läuft seit",
     "raw.none": "§cKeine",
     "raw.enabled": "§aAktiviert",
     "raw.disabled": "§cDeaktiviert",
