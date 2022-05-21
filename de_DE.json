@@ -144,6 +144,10 @@
     "message.youAreNotInGame": "§cDu bist nicht in einer Runde!",
     "message.leftGame": "§cDu hast deine aktuelle Runde verlassen!",
     "message.inventorySaved": "§aDein Inventar wurde erfolgreich gespeichert!",
+    "message.streakGained": "§aYou are on a streak of§b {0}!",
+    "message.streakLost": "§cYou lost your streak of§b {0}§c to§b {1}!",
+    "message.outOfCombat": "§aYou are out of combat!",
+    "message.inCombat": "§cYou are now in combat with §b{0}",
 
     "command.description.build": "Schalte den build Modus um",
     "command.description.translate": "Übersetze eine Nachricht in eine bestimmte Sprache",
@@ -160,6 +164,7 @@
     "command.description.jumpandrun": "Konfigure das JumpAndRun",
     "command.description.shop": "Kaufe coole Ränge, Cosmetic und mehr",
     "command.description.leave": "Verlasse deine aktuelle Runde",
+    "command.description.kit": "Equip a kit",
 
     "item.name.cosmetics": "§bKosmetiks",
     "item.name.vote": "§bVote",
