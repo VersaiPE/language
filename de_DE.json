@@ -148,6 +148,7 @@
     "message.streakLost": "",
     "message.outOfCombat": "",
     "message.inCombat": "",
+    "message.noCommandsInCombat": "",
 
     "command.description.build": "Schalte den build Modus um",
     "command.description.translate": "Übersetze eine Nachricht in eine bestimmte Sprache",
