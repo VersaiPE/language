@@ -152,6 +152,11 @@
     "message.playerIsNotNicked": "§cDer Spieler§b {0}§c ist nicht genickt!",
     "message.playerIsNicked": "§aDer Spieler §b{0}§a ist genicked.\n§fNick: §b{1}\n§fNick Rang: §b{2}\n§fCustom Skin: §b{3}",
     "message.playerUnnicked": "§aDu hast§b {0}§a erfolgreich entnickt!",
+    "message.streakGained": "",
+    "message.streakLost": "",
+    "message.outOfCombat": "",
+    "message.inCombat": "",
+    "message.noCommandsInCombat": "",
 
     "command.description.build": "Schalte den build Modus um",
     "command.description.translate": "Übersetze eine Nachricht in eine bestimmte Sprache",
@@ -168,6 +173,7 @@
     "command.description.jumpandrun": "Konfigure das JumpAndRun",
     "command.description.shop": "Kaufe coole Ränge, Cosmetic und mehr",
     "command.description.leave": "Verlasse deine aktuelle Runde",
+    "command.description.kit": "",
 
     "item.name.cosmetics": "§bKosmetiks",
     "item.name.vote": "§bVote",

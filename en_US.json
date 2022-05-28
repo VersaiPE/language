@@ -151,6 +151,11 @@
     "message.playerIsNotNicked": "§cThe player §b{0}§c is not nicked!",
     "message.playerIsNicked": "§aThe player §b{0}§a is nicked.\n§fNick: §b{1}\n§fNick Rank: §b{2}\n§fCustom Skin: §b{3}",
     "message.playerUnnicked": "§aYou have successfully unnicked§b {0}§a!",
+    "message.streakGained": "§aYou are on a streak of§b {0}!",
+    "message.streakLost": "§cYou lost your streak of§b {0}§c to§b {1}!",
+    "message.outOfCombat": "§aYou are out of combat!",
+    "message.inCombat": "§cYou are in combat with §b{0}",
+    "message.noCommandsInCombat": "§cYou cannot use this command while in combat!",
 
     "command.description.jumpandrun": "Configure the JumpAndRun",
     "command.description.build": "Toggle the build mode",
@@ -167,6 +172,7 @@
     "command.description.setup": "Setup a game",
     "command.description.shop": "Buy new cool ranks, cosmetics and much more",
     "command.description.leave": "Leave your current game",
+    "command.description.kit": "Equip a kit",
 
     "item.name.cosmetics": "§bCosmetics",
     "item.name.vote": "§bVote",
