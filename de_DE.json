@@ -402,6 +402,7 @@
     "popup.buildHeightReached": "§cDu hast die maximale Bauhöhe erreicht!",
     "popup.canNotBreakOwnBed": "§cDu kannst nicht dein eigenes Bett abbbauen!",
     "popup.spawnProtection": "§cSpawn Schutz!",
-    "popup.progressing": "§bNickname wird geladen, bitte warten..."
+    "popup.progressing": "§bNickname wird geladen, bitte warten...",
+    "popup.availableIn": "§cVerfügbar in§b {0}§c Sekunden!",
   }
 }
